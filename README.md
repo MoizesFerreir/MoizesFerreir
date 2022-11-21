@@ -1,4 +1,9 @@
-### Hi there 👋
+## Olá👋
+
+Sou Desenvolvedor back-end, cursando o superior de Análise e Desenvolvimento de Sistemas(UNIP - Limeira), tenho familiaridade com a linguagem Python e o framework Django. 🐍
+E possuo conhecimentos em HTML, CSS e MySQL.
+Diariamente pratico meus aprendizados, e venho com consistência criando alguns projetos.
+Estou aberto a oportunidades de Estágio ou freela.
 
 <!--
 **MoizesFerreir/MoizesFerreir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

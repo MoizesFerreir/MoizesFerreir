@@ -1,4 +1,5 @@
-## Olá, seja muito bem vindo!👋
+## Olá! Bem-vindo!👋
+
 Meu nome é Moizes, sou um Desenvolvedor de Software, estou graduando em Análise e Desenvolvimento de Sistemas. <br>
 Trabalho com python, django, banco de dados(SQL), HTML e CSS.<br>
 Sinta-se em casa para contribuir com qualquer um dos meu repositorios.

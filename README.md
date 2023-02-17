@@ -1,8 +1,14 @@
 ## Olá! Bem-vindo!👋
 
-Meu nome é Moizes, sou um Desenvolvedor de Software, estou graduando em Análise e Desenvolvimento de Sistemas(2/4). <br>
-Trabalho com python, django, banco de dados(SQL), HTML e CSS.<br>
-Sinta-se em casa para contribuir com qualquer um dos meu repositorios.
+Meu nome é Moizes!
+sou um Desenvolvedor de Software, estou graduando em Análise e Desenvolvimento de Sistemas(2/4). <br>
+Trabalho com:
+* Python; 
+* Django;
+* Banco de dados(PostgreSQL); 
+* HTML e CSS.<br>
+ 
+Todos os projetos publicos estão abertos a sugestôes, sinta-se em casa para contribuir com qualquer um dos meu repositorios.
 <!--
 **MoizesFerreir/MoizesFerreir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

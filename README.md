@@ -1,9 +1,10 @@
-## Olá! Bem-vindo!👋
+## Olá Dev <br> Seja Bem-vindo(a)!👋
 
 Meu nome é Moizes!
-sou um Desenvolvedor de Software, estou graduando em Análise e Desenvolvimento de Sistemas(2/4). <br>
+sou um Desenvolvedor de Software, estou graduando em Análise e Desenvolvimento de Sistemas(2/4)semestre. <br>
 Trabalho com:
-* Python; 
+* Python;
+* Java; 
 * Django;
 * Banco de dados(PostgreSQL); 
 * HTML e CSS.<br>

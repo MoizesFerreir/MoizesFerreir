@@ -1,7 +1,7 @@
 ## Olá Dev <br> Seja Bem-vindo(a)!👋
 
 Meu nome é Moizes!
-sou um Desenvolvedor de Software, estou graduando em Análise e Desenvolvimento de Sistemas(2/4)semestre. <br>
+sou um Desenvolvedor de Software, estou cursando Análise e Desenvolvimento de Sistemas(2/4)semestre. <br>
 Trabalho com:
 * Python;
 * Java; 

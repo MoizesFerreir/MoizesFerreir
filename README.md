@@ -5,7 +5,6 @@ Moro em Limeira, tenho 23 anos e estudo tecnologia.<br>
 Sou um Desenvolvedor de Software, cursando Análise e Desenvolvimento de Sistemas(2/4)semestre. <br>
 Trabalho com:
 * Python;
-* Java; 
 * Django;
 * Banco de dados(PostgreSQL); 
 * HTML e CSS.<br>

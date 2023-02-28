@@ -13,8 +13,6 @@ Todos os projetos publicos estão abertos a sugestôes, sinta-se em casa para co
 <!--
 **MoizesFerreir/MoizesFerreir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]https://www.linkedin.com/in/moizesdevback/
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -26,6 +24,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+)](https://www.linkedin.com/in/moizesdevback/)
+
+
 <div align="center">
   <a href="https://github.com/MoizesFerreir">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MoizesFerreir&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>

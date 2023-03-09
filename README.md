@@ -6,7 +6,7 @@ Sou um Desenvolvedor de Software, cursando Análise e Desenvolvimento de Sistema
 Atualmente sou Estagiario de T.I<br/>
 Limeira/SP🌎
 
-No dia á dia, pratico meus conhecimentos adquiridos em horas de estudo, construindo projetos e colaborando com a comudidade dev.
+No dia á dia, pratico meus conhecimentos adquiridos em horas de estudo, construindo projetos e colaborando com a comudidade dev👨‍🚀.
 
 <!--
 **MoizesFerreir/MoizesFerreir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

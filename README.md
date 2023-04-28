@@ -3,6 +3,7 @@
 Meu nome é Moizes!
 Moro em Limeira, tenho 23 anos e estudo tecnologia.<br>
 Sou um Desenvolvedor de Software, cursando Análise e Desenvolvimento de Sistemas(2/4)semestre. <br>
+Estagiario de Suporte na Data System 
 <br/>
 
 Limeira/SP🌎

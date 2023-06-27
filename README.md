@@ -1,7 +1,7 @@
 ## Olá Dev! <br> Seja Muito Bem-vindo(a)!👋
 
 Meu nome é Moizes!
-Moro em Limeira, tenho 23 anos e estudo tecnologia.<br>
+Moro em Limeira, tenho 24 anos e estudo tecnologia.<br>
 Sou um Desenvolvedor de Software, cursando Análise e Desenvolvimento de Sistemas(2/4)semestre. <br>
 Atualmente: Estagiario de Suporte na Data System
 <br/>
@@ -9,6 +9,14 @@ Atualmente: Estagiario de Suporte na Data System
 Limeira/SP🌎
 
 No dia á dia, pratico meus conhecimentos adquiridos em horas de estudo, construindo projetos e colaborando com a comudidade dev👨‍🚀.
+
+My name is Moses! I live in Limeira, I'm 24 years old and I study technology.
+I'm a Software Developer, studying Systems Analysis and Development(2/4)semester.
+Currently: Support Intern at Data System
+
+Limeira / SP 🌎
+
+On a daily basis, I practice my knowledge acquired in hours of study, building projects and collaborating with the community dev.
 
 <!--
 **MoizesFerreir/MoizesFerreir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

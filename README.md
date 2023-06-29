@@ -11,7 +11,7 @@ Limeira/SP🌎
 No dia á dia, pratico meus conhecimentos adquiridos em horas de estudo, construindo projetos e colaborando com a comudidade dev🧙.
 
 My name is Moizes! I live in Limeira, I'm 24 years old and I study technology.
-I'm a Software Developer, studying Systems Analysis and Development(2/4)semester.
+I'm a Software Developer, studying Systems Analysis and Development(2/4)semester.<br>
 Currently: Support Intern at Data System
 
 Limeira / SP 🌎

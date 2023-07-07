@@ -14,7 +14,7 @@ My name is Moizes! I live in Limeira, I'm 24 years old and I study technology.
 I'm a Software Developer, studying Systems Analysis and Development(2/4)semester.<br>
 Currently: Support Intern at Data System
 
-Limeira / SP 🌎
+Brazil/ Limeira / SP 🌎
 
 On a daily basis, I practice my knowledge acquired in hours of study, building projects and collaborating with the community dev.🧙
 

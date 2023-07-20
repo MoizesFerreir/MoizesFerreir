@@ -1,4 +1,4 @@
-## Olá ! <br> Seja Muito Bem-vindo(a)!👋
+## Olá ! <br> Seja Bem-vindo(a)!👋
 
 Meu nome é Moizes!
 Moro em Limeira, tenho 24 anos e estudo tecnologia.<br>

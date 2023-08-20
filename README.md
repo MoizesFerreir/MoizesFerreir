@@ -2,20 +2,19 @@
 <br>
 
 Meu nome é Moizes!
-Moro em Limeira, tenho 24 anos e estudo tecnologia.<br>
 Sou um Desenvolvedor de Software, cursando Análise e Desenvolvimento de Sistemas(3/4)semestre. <br>
 Atualmente: Estagiario de Suporte na Data System
 <br/>
 
-Limeira/SP🌎
+Brazil🌎
 
 No dia á dia, pratico meus conhecimentos adquiridos em horas de estudo, construindo projetos e colaborando com a comudidade dev🧙.
 
-My name is Moizes! I live in Limeira, I'm 24 years old and I study technology.
+My name is Moizes! 
 I'm a Software Developer, studying Systems Analysis and Development(3/4)semester.<br>
 Currently: Support Intern at Data System
 
-Brazil/ Limeira / SP 🌎
+Brazil🌎
 
 On a daily basis, I practice my knowledge acquired in hours of study, building projects and collaborating with the community dev.🧙
 

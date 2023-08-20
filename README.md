@@ -6,7 +6,7 @@ Sou um Desenvolvedor de Software, cursando Análise e Desenvolvimento de Sistema
 Atualmente: Estagiario de Suporte na Data System
 <br/>
 
-Brazil🌎
+Brasil🌎
 
 No dia á dia, pratico meus conhecimentos adquiridos em horas de estudo, construindo projetos e colaborando com a comudidade dev🧙.
 

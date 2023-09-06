@@ -8,7 +8,7 @@ Atualmente: Estagiario de Suporte na Data System
 
 Brasil🌎
 
-No dia á dia, pratico meus conhecimentos adquiridos em horas de estudo, construindo projetos e colaborando com a comudidade dev🧙.
+No dia-a-dia, pratico meus conhecimentos adquiridos em horas de estudo, construindo projetos e colaborando com a comunidade dev🧙.
 
 My name is Moizes! 
 I'm a Software Developer, studying Systems Analysis and Development(3/4)semester.<br>

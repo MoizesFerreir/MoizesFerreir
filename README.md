@@ -3,7 +3,7 @@
 
 Meu nome é Moizes!
 Sou um Desenvolvedor de Software, cursando Análise e Desenvolvimento de Sistemas(3/4)semestre. <br>
-Atualmente: Estagiario de Suporte na Data System
+Atualmente: Estagiario na Data System
 <br/>
 
 Brasil🌎
@@ -12,7 +12,7 @@ No dia-a-dia, pratico meus conhecimentos adquiridos em horas de estudo, construi
 
 My name is Moizes! 
 I'm a Software Developer, studying Systems Analysis and Development(3/4)semester.<br>
-Currently: Support Intern at Data System
+Currently: Intern at Data System
 
 Brazil🌎
 

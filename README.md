@@ -11,7 +11,7 @@ Brasil🌎
 No dia-a-dia, pratico meus conhecimentos adquiridos em horas de estudo, construindo projetos e colaborando com a comunidade dev🧙.
 
 My name is Moizes! 
-I'm a Software Developer, studying Systems Analysis and Development(3/4)semester.<br>
+I'm a Software Developer, studying Systems Analysis and Development(3/4)semestre.<br>
 Currently: Intern at Data System
 
 Brazil🌎

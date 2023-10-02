@@ -1,22 +1,24 @@
-## Hi! 👋
+## Olá! 
 <br>
 
-Meu nome é Moizes!
-Sou um Desenvolvedor de Software, cursando Análise e Desenvolvimento de Sistemas(3/4)semestre. <br>
-Atualmente: Estagiario na Data System
+📛 Meu nome é Moizes!
+👨‍💻 Sou um Desenvolvedor de Software.
+📚 Cursando Análise e Desenvolvimento de Sistemas. <br>
+🏢 Atualmente: Estagiario na Data System 
 <br/>
 
-Brasil🌎
+🌎 Brasil
 
-No dia-a-dia, pratico meus conhecimentos adquiridos em horas de estudo, construindo projetos e colaborando com a comunidade dev🧙.
+🤓 No dia-a-dia, pratico meus conhecimentos adquiridos em horas de estudo, construindo projetos e colaborando com a comunidade dev🧙.
 
-My name is Moizes! 
-I'm a Software Developer, studying Systems Analysis and Development(3/4)semestre.<br>
-Currently: Intern at Data System
+📛 My name is Moizes! 
+👨‍💻 I'm a Software Developer.
+📚 Studying Systems Analysis and Development.<br>
+🏢 Currently: Intern at Data System 
 
-Brazil🌎
+🌎 Brazil
 
-On a daily basis, I practice my knowledge acquired in hours of study, building projects and collaborating with the community dev.🧙
+🤓 On a daily basis, I practice my knowledge acquired in hours of study, building projects and collaborating with the community dev.🧙
 
 <!--
 **MoizesFerreir/MoizesFerreir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

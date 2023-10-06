@@ -9,7 +9,7 @@
 
 🌎 Brasil
 
-🤓 No dia-a-dia, pratico meus conhecimentos adquiridos em horas de estudo, construindo projetos e colaborando com a comunidade dev. 🧙
+🤓 No dia-a-dia, pratico meus conhecimentos adquiridos em horas de estudo, construindo projetos e colaborando com a comunidade dev. 
 <br>
 ------------------------------------------------------------------------------------------------------------------------------------------
 <br>
